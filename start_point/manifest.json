@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/csharp_specflow",
+  "image_name": "cyberdojofoundation/csharp_specflow:b1b68a6",
   "display_name": "C#, SpecFlow",
   "visible_filenames": [
     "Hiker.cs",
@@ -7,7 +7,10 @@
     "HikerSpec.feature",
     "cyber-dojo.sh"
   ],
-  "filename_extension": [ ".cs", ".feature" ],
+  "filename_extension": [
+    ".cs",
+    ".feature"
+  ],
   "max_seconds": 10,
   "tab_size": 4
 }
